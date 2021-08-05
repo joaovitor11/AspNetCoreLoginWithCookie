@@ -1,0 +1,11 @@
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\bin\Debug\netcoreapp2.0\AspCore_AutenticaCookie.deps.json
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\bin\Debug\netcoreapp2.0\AspCore_AutenticaCookie.runtimeconfig.json
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\bin\Debug\netcoreapp2.0\AspCore_AutenticaCookie.runtimeconfig.dev.json
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\bin\Debug\netcoreapp2.0\AspCore_AutenticaCookie.dll
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\obj\Debug\netcoreapp2.0\AspCore_AutenticaCookie.csprojResolveAssemblyReference.cache
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\obj\Debug\netcoreapp2.0\AspCore_AutenticaCookie.csproj.CoreCompileInputs.cache
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\obj\Debug\netcoreapp2.0\AspCore_AutenticaCookie.AssemblyInfoInputs.cache
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\obj\Debug\netcoreapp2.0\AspCore_AutenticaCookie.AssemblyInfo.cs
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\bin\Debug\netcoreapp2.0\AspCore_AutenticaCookie.pdb
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\obj\Debug\netcoreapp2.0\AspCore_AutenticaCookie.dll
+C:\_aspncore_fev_2108\AspCore_AutenticaCookie\AspCore_AutenticaCookie\obj\Debug\netcoreapp2.0\AspCore_AutenticaCookie.pdb
